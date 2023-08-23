@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No. ID  Jenis ID  Jenis Pelaku</name>
+   <tag></tag>
+   <elementGuidId>35c5bf98-22b2-42c2-a379-42c094f26d6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fast-tran']/div/div[14]/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3df36d6f-ba83-49d0-af49-70e0702c12cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>ff303121-f94d-4bf6-b789-d252c9122bf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fast-tran&quot;)/div[@class=&quot;fast-body ovb&quot;]/div[@class=&quot;fast-body form-input-pelaku&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body py-2&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col&quot;]</value>
+      <webElementGuid>92ef113a-db23-4b57-8fd0-9851ffaa3a2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fast-tran']/div/div[14]/div/div[2]/div/div[2]</value>
+      <webElementGuid>5ce6626d-451f-4021-9aa2-86fde8f7be3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. ID | Jenis ID | Jenis Pelaku'])[1]/following::div[1]</value>
+      <webElementGuid>526879a9-6a7f-4a10-a95f-68d01126d16c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pelaku Transaksi'])[1]/following::div[4]</value>
+      <webElementGuid>ae145a6d-b1e8-41c2-a5b8-13c662676dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pelaku Transaksi'])[1]/preceding::div[2]</value>
+      <webElementGuid>c5b7e07b-7072-4d5b-8f5f-1af84aa8b04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Nasabah Sumber Dana'])[1]/preceding::div[16]</value>
+      <webElementGuid>c69899e2-4db4-46ea-af53-1a4dca994ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div[2]/div/div[2]</value>
+      <webElementGuid>94cf785f-fc56-4ecc-a799-f365a5e3b11d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

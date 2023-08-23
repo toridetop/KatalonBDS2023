@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih Otorisasi</name>
+   <tag></tag>
+   <elementGuidId>672fdb3c-c64e-4c3e-aa3e-e664b9628ddf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='dCDP06']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dCDP06</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d5d342c4-39a0-4390-86a0-b006b6998903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dCDP06</value>
+      <webElementGuid>cbb967e0-14fc-4e7a-851e-89863d183b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-text</value>
+      <webElementGuid>f7fd9cff-4971-4378-96ce-4028022e00a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Pilih Otorisasi
+					</value>
+      <webElementGuid>2b535139-4f8d-4813-8ad9-cbffe2cf600b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dCDP06&quot;)</value>
+      <webElementGuid>2c98f563-d235-46a0-a252-6bf59a61037d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi</value>
+      <webElementGuid>65c41175-576c-43a9-a3e7-df9cc21c0f72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='dCDP06']</value>
+      <webElementGuid>a26d5105-1871-48a6-867b-48ecfefc925d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dCDP_6']/span</value>
+      <webElementGuid>b766af23-c323-4e68-adc8-81a8ebf7e16f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Formulir'])[1]/following::span[1]</value>
+      <webElementGuid>3adf4784-9ce6-4c81-9b73-4e45d727ecd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[2]</value>
+      <webElementGuid>bf855777-6cb2-4344-89c5-4c99d832d4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesan'])[1]/preceding::span[1]</value>
+      <webElementGuid>626c2ca7-47d3-465d-99f6-19a3d69837eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'dCDP06', '&quot;', ')')])[1]/preceding::span[2]</value>
+      <webElementGuid>a227c008-07d4-494f-a8e2-eaa0936776ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Otorisasi']/parent::*</value>
+      <webElementGuid>0c9947fa-0f85-41f4-90c8-64cc655f0a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>01aed3cf-8c71-4245-9a19-85b4ea1d15d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'dCDP06' and (text() = '
+						Pilih Otorisasi
+					' or . = '
+						Pilih Otorisasi
+					')]</value>
+      <webElementGuid>4aa8e904-9a4f-49f8-9b88-63918b815b5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

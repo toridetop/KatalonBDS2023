@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'uatstaff1'</initValue>
+      <name>userstaff</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ww1FHTu5Bdwnxl+MZHmZkA=='</initValue>
+      <name>passstaff</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'uatspv1'</initValue>
+      <name>userspv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ww1FHTu5Bdx/MmOMxLNVbw=='</initValue>
+      <name>passspv</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.14.20.156:3000/bankmega/cabang'</initValue>
+      <name>linkBDS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'8171041410912221'</initValue>
+      <name>IDnsbh</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123305807532048'</initValue>
+      <name>BillExp</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

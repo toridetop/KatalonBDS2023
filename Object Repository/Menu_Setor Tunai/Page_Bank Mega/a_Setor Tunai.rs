@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Setor Tunai</name>
+   <tag></tag>
+   <elementGuidId>4ed184f9-e952-4a5b-9d20-a9ba6ff4e37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Setor Tunai' or . = 'Setor Tunai')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='link969868']/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-block.py-0.my-0.text-left.btn-link.text-warning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>67e16ef2-8da3-4e04-9f44-ad3a44a76e04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>89b5494a-db7b-4078-85c4-c54bd3fb41c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>cfaf66b1-4aa3-4e55-b242-03906040cb3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block py-0 my-0 text-left btn-link text-warning</value>
+      <webElementGuid>125f4867-7768-4549-ab12-16aa0354942d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setor Tunai</value>
+      <webElementGuid>e0c43aad-cf6f-491f-89c3-406a0765dc19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link969868&quot;)/li[@class=&quot;list-group-item p-0 m-0&quot;]/a[@class=&quot;btn btn-block py-0 my-0 text-left btn-link text-warning&quot;]</value>
+      <webElementGuid>5b848d19-9361-4936-a56b-d4979354055a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='link969868']/li/a</value>
+      <webElementGuid>012b6238-e372-470f-9c7d-8bbcda447663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Setor Tunai')]</value>
+      <webElementGuid>42cf6a4a-2198-4ebc-ade8-14237e33d190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI UMUM'])[1]/following::a[1]</value>
+      <webElementGuid>5511486b-d180-4131-908c-bc908b5a74c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KE HALAMAN UTAMA'])[1]/following::a[2]</value>
+      <webElementGuid>375fa049-2600-4b77-aa17-18f7715aa06f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LAINNYA'])[1]/preceding::a[12]</value>
+      <webElementGuid>70b2f991-5a6e-46bf-9694-1195f784ed24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LOAN'])[1]/preceding::a[22]</value>
+      <webElementGuid>fdaa8d4c-dafd-4e36-9732-3fd9a8209b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Setor Tunai']/parent::*</value>
+      <webElementGuid>949fcfe5-1d32-469c-a194-f1058c79c4b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>6e02cd4e-2234-4644-807a-25c44e6f2081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li/a</value>
+      <webElementGuid>bbb47533-1920-40e0-90fe-8614d060a69e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Setor Tunai' or . = 'Setor Tunai')]</value>
+      <webElementGuid>0fdbfa1d-c99a-4e81-a50d-d5f510b03c0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

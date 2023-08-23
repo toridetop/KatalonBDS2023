@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TRANSAKSI LAINNYA</name>
+   <tag></tag>
+   <elementGuidId>9b0d75ae-6529-485f-a90e-77608b1f8ef3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='side-toggler']/div/div/div/ul/div[2]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'TRANSAKSI LAINNYA' or . = 'TRANSAKSI LAINNYA')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24c8d457-4068-4c2d-8d6b-384d25103762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>9d0a956f-272f-4cdf-a0da-0c6a31ec224d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target-link</name>
+      <type>Main</type>
+      <value>fast-tran</value>
+      <webElementGuid>60f1b515-c24c-4583-a3ed-d7db1a4b3ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-block btn-light text-left</value>
+      <webElementGuid>332705b1-f190-431d-b4d7-6453a7c9285a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#link899079</value>
+      <webElementGuid>1707e5dd-b2bc-4ef0-8b5a-a3aa0090269c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRANSAKSI LAINNYA</value>
+      <webElementGuid>a9dde753-66b0-453b-8599-069896055aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-toggler&quot;)/div[@class=&quot;dropdown-menu side-bar show&quot;]/div[@class=&quot;fast-body&quot;]/div[@class=&quot;fast-menu pb-4 Lvh-100&quot;]/ul[@class=&quot;list-group&quot;]/div[2]/li[@class=&quot;list-group-item p-0 m-0&quot;]/a[@class=&quot;btn btn-sm btn-block btn-light text-left&quot;]</value>
+      <webElementGuid>d972000c-7e53-46dd-8f77-7861817f1c75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='side-toggler']/div/div/div/ul/div[2]/li/a</value>
+      <webElementGuid>c7cc94c2-be5d-425c-aefb-9d53375e9733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TRANSAKSI LAINNYA')]</value>
+      <webElementGuid>3bcdd20a-09e6-41e6-a32b-aa5f2db6fabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI UMUM'])[1]/following::a[13]</value>
+      <webElementGuid>9609c59f-de59-4db8-a85b-4b50d38ec4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KE HALAMAN UTAMA'])[1]/following::a[14]</value>
+      <webElementGuid>3b203272-6908-4563-b793-905748805553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LOAN'])[1]/preceding::a[10]</value>
+      <webElementGuid>12cb20d8-3add-42d2-a3f3-572637d670f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI MISCELLANEOUS'])[1]/preceding::a[20]</value>
+      <webElementGuid>3cea81e2-5802-447a-80ce-6fa3cd28019a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TRANSAKSI LAINNYA']/parent::*</value>
+      <webElementGuid>cf8a181d-460a-4b13-bb8a-ef86389a7fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#link899079')]</value>
+      <webElementGuid>11d80ffa-8135-4b9f-b4a4-b462410a967a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/li/a</value>
+      <webElementGuid>097d7f60-ba6d-4f90-8f0a-d922ddb21bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#link899079' and (text() = 'TRANSAKSI LAINNYA' or . = 'TRANSAKSI LAINNYA')]</value>
+      <webElementGuid>88eee724-bab3-4f1c-9b7c-7b46768cc630</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Print Formulir</name>
+   <tag></tag>
+   <elementGuidId>f62a3dbd-c203-423d-9c6d-660e3b7ec82d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='dCDPy5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dCDPy5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c7f5e6f-bb19-4c93-b6d4-6c210bf3f348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dCDPy5</value>
+      <webElementGuid>c3f7fc28-09f9-48bf-a2ba-feeaa5a81130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-text</value>
+      <webElementGuid>08904341-66c1-4ac1-81a1-3fe24a32a4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Print Formulir
+					</value>
+      <webElementGuid>d95897f0-d804-41fd-84e6-190f14b909a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dCDPy5&quot;)</value>
+      <webElementGuid>384b81db-2743-4c9d-839d-62a2a528fdd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi</value>
+      <webElementGuid>f6e83ea7-9b16-426e-a56a-a2a5e4c1897c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='dCDPy5']</value>
+      <webElementGuid>5d482a26-9f9d-43f2-9d6a-492a52d478ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dCDPx5']/span</value>
+      <webElementGuid>dc179ac3-18c0-4e4d-9ee0-554ef2c50ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[1]</value>
+      <webElementGuid>87645dbe-8fb8-4d48-8d2b-5a5334bc407b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::span[1]</value>
+      <webElementGuid>f249d2ca-5569-45ee-92b1-44d1cd57dd50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Otorisasi'])[1]/preceding::span[1]</value>
+      <webElementGuid>6a91377b-b64d-483e-ac46-8407d0fd678b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesan'])[1]/preceding::span[2]</value>
+      <webElementGuid>7f0b1b65-ca6b-4bae-ac96-ac1314dcb3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Print Formulir']/parent::*</value>
+      <webElementGuid>fe92b036-4196-43ee-9bef-ba7b7ebabcbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>604f7a74-caf1-4d29-a97b-e9a5defff480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'dCDPy5' and (text() = '
+						Print Formulir
+					' or . = '
+						Print Formulir
+					')]</value>
+      <webElementGuid>9751f616-a864-4a09-8970-487c1880ce73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

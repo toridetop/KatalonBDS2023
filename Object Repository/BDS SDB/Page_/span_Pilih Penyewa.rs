@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih Penyewa</name>
+   <tag></tag>
+   <elementGuidId>61ddb2c0-d9c5-48c7-b687-3d83badcc7c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='dCDPe0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dCDPe0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13dbf1e7-1bc6-46e6-8f53-2a8321ffa50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dCDPe0</value>
+      <webElementGuid>ba15c495-c683-4569-a118-a4dd5360dcf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-text</value>
+      <webElementGuid>520d8a57-c2ea-45bf-9901-d434c032fe78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Pilih Penyewa
+					</value>
+      <webElementGuid>721eecee-f960-438c-84f1-a340fdde42a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dCDPe0&quot;)</value>
+      <webElementGuid>3596f4e4-d270-47fd-9414-cd8fa2af5d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi</value>
+      <webElementGuid>48df475b-5253-48af-9989-2b731d84cb42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='dCDPe0']</value>
+      <webElementGuid>c3c9a514-399c-4cb1-856c-b74011dc3d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dCDPd0']/span</value>
+      <webElementGuid>7d535617-1a54-4945-8b3e-dda9308cc86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Penyewa'])[1]/following::span[1]</value>
+      <webElementGuid>a5a89a2e-29cb-405e-b8b9-6add3289fa5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[3]</value>
+      <webElementGuid>a769312c-b306-4f10-8d7e-0c93c1b3fbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::span[1]</value>
+      <webElementGuid>69e29464-10a6-4488-8aac-8a93277dc8a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIF'])[1]/preceding::span[1]</value>
+      <webElementGuid>b29b4c0b-2d86-4eae-b21c-e184de05d1e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Penyewa']/parent::*</value>
+      <webElementGuid>b30fa9bd-790a-44d7-85ac-4000f11e25f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>88b8b06c-c2a5-4f39-bc98-b4e16e80b980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'dCDPe0' and (text() = '
+						Pilih Penyewa
+					' or . = '
+						Pilih Penyewa
+					')]</value>
+      <webElementGuid>321a6c50-83b0-4db3-9237-4ba00ffb03c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

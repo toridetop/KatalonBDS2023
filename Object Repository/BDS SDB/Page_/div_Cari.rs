@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cari</name>
+   <tag></tag>
+   <elementGuidId>dc93ad97-b7bf-4bab-8044-b20a52f392d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eBCPd0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eBCPd0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Cari' or . = ' Cari') and @ref_element = 'Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>053fe0ef-75fa-4f5c-aa00-2eb0d2f8f4c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eBCPd0</value>
+      <webElementGuid>861732b4-6651-43e4-b55b-2104e79c0b53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-block z-div</value>
+      <webElementGuid>f0ccd3cf-1bf6-4e83-bf67-38d2fbfa1842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cari</value>
+      <webElementGuid>10e68bd9-7544-437e-b511-cb12a8503ed4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eBCPd0&quot;)</value>
+      <webElementGuid>72291209-4640-482a-be7b-d0b7a4fad510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi</value>
+      <webElementGuid>294a7cfb-9091-43aa-b238-e4b641776d9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='eBCPd0']</value>
+      <webElementGuid>7a0f939b-688c-4200-9ca8-484de4c8520a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eBCPc0']/div</value>
+      <webElementGuid>96cef035-afe7-44b0-977b-e87e51b047d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[8]</value>
+      <webElementGuid>7cb1daeb-481b-486a-a141-314715ee4866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Rekening'])[1]/following::div[10]</value>
+      <webElementGuid>db454568-4e9e-47fa-aec9-4ff6f4b786b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KC JKT TENDEAN'])[1]/preceding::div[7]</value>
+      <webElementGuid>718bdc61-4099-491e-a0cd-30b87330d28b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[2]/div</value>
+      <webElementGuid>c314668c-1580-4b9d-b999-6113bb1406d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'eBCPd0' and (text() = ' Cari' or . = ' Cari')]</value>
+      <webElementGuid>95cb01a9-9625-4ad4-98a1-e7522df40d7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

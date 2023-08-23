@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pindah Buku  Overbooking</name>
+   <tag></tag>
+   <elementGuidId>69014448-7860-49c9-92d8-a3dbe46bb390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Pindah Buku / Overbooking' or . = 'Pindah Buku / Overbooking')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='link916504']/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-block.py-0.my-0.text-left.btn-link.text-warning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f56ffd83-a344-4685-a85b-3be49f60fed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>9eb2d4ef-a576-4b2b-b22f-39415be3eac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>dbaee539-98dc-46e3-b72a-8e833aa0d258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block py-0 my-0 text-left btn-link text-warning</value>
+      <webElementGuid>34aa8620-60a6-4f75-8466-5d63796d3a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pindah Buku / Overbooking</value>
+      <webElementGuid>37150465-46b3-4866-99a5-47cebc125fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link916504&quot;)/li[@class=&quot;list-group-item p-0 m-0&quot;]/a[@class=&quot;btn btn-block py-0 my-0 text-left btn-link text-warning&quot;]</value>
+      <webElementGuid>badabc5d-ad6e-48da-97bf-0a810cf469f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='link916504']/li[3]/a</value>
+      <webElementGuid>208da80f-aa33-47eb-8db8-89686bc26c18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pindah Buku / Overbooking')]</value>
+      <webElementGuid>e954a9dc-a862-417c-be61-32248ec61ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI UMUM'])[1]/following::a[3]</value>
+      <webElementGuid>2c6152bd-762c-4a0f-beb6-b4f4523da5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KE HALAMAN UTAMA'])[1]/following::a[4]</value>
+      <webElementGuid>5b6a361b-df63-44a4-9e08-2dd0f9122edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LAINNYA'])[1]/preceding::a[10]</value>
+      <webElementGuid>b19ebc2b-d62a-4eec-aae9-59c800277663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LOAN'])[1]/preceding::a[20]</value>
+      <webElementGuid>0e07530c-49e1-4d2b-9909-0777e81f5bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pindah Buku / Overbooking']/parent::*</value>
+      <webElementGuid>33bf8e0f-fae1-43b8-9e2a-c75ee85aa45d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>e8f9050f-a91c-4606-973a-72b337faeb72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>844762a0-7987-4523-ab17-f4f9f18b55cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Pindah Buku / Overbooking' or . = 'Pindah Buku / Overbooking')]</value>
+      <webElementGuid>91b9e074-1c22-49d5-a973-745c339a3cb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

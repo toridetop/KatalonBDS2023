@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Status Transaksi</name>
+   <tag></tag>
+   <elementGuidId>bd77bd1e-07be-474c-9338-23162b4d5c18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ui-id-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ui-id-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a6dff48-7461-4a67-85f4-ff1c93e9a51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ui-id-1</value>
+      <webElementGuid>bff064ce-8313-402e-8c73-eae47b6dea99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dialog-title</value>
+      <webElementGuid>58dc1619-58e9-4688-8ef2-b5c6dc284754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Status Transaksi</value>
+      <webElementGuid>1090783a-d1d3-4e00-9ace-b2ad94b47d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-1&quot;)</value>
+      <webElementGuid>05b05e37-0573-4abf-90cd-64ed2b85c9d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ui-id-1']</value>
+      <webElementGuid>8c24e0ca-e4a2-4fdb-ba0d-7773c2076f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'ui-id-1', '&quot;', ')')])[1]/following::span[1]</value>
+      <webElementGuid>a10cf439-78ca-4084-98f9-0b05b8043503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/following::span[1]</value>
+      <webElementGuid>eec510e6-9ccb-496f-9c0c-10bd543724f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::span[1]</value>
+      <webElementGuid>41ee875f-9d23-42c7-ae4a-3333f4c4f8ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Slip Validasi, masukkan ulang kertas slip konfirmasi transaksi yang sudah pernah dicetak'])[1]/preceding::span[3]</value>
+      <webElementGuid>1ed4af14-50e4-4e2b-93b4-d684d3c8c73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Status Transaksi']/parent::*</value>
+      <webElementGuid>7687129f-5e5c-4d89-892d-6f3b58ef9a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[9]/div/span</value>
+      <webElementGuid>283b355c-f342-408b-b02d-f522e7a8fb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ui-id-1' and (text() = 'Status Transaksi' or . = 'Status Transaksi')]</value>
+      <webElementGuid>70ebdd09-8023-4ccd-8443-34e22903d1e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

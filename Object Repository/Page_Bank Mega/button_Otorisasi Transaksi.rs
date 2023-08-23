@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Otorisasi Transaksi</name>
+   <tag></tag>
+   <elementGuidId>22fd1e84-1c0b-4aba-9e3d-40a4ed0d9b21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-danger.Ldropdown-toggle.btn-auth</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47c47db0-0d04-45f5-b353-cf49d18dcdfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d48bc83-f960-460a-89d5-070a12311adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-danger Ldropdown-toggle btn-auth</value>
+      <webElementGuid>e5f4f926-05ca-4be6-b181-4843b9221eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ldata-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>42e2913b-011e-4b2d-8eb1-9ab3cec86dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Otorisasi Transaksi</value>
+      <webElementGuid>454b5a79-bd20-4479-8a32-3a6bbccb70c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/div[@class=&quot;tab-content&quot;]/div[@class=&quot;fast-main&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header fast-submit py-1&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-auto&quot;]/div[@class=&quot;fast-body auth-dropmenu&quot;]/button[@class=&quot;btn btn-sm btn-danger Ldropdown-toggle btn-auth&quot;]</value>
+      <webElementGuid>69fc8cb4-b58f-4372-a795-fa5d6edd6b99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>fc016a3b-fcbf-49b8-acde-d9f337738061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-menu']/div/div[2]/div/div/div/div[3]/div/button</value>
+      <webElementGuid>779054de-bb20-439f-9c1b-8e11d6ab5815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/following::button[2]</value>
+      <webElementGuid>c57a6a40-3e0f-44ee-915b-65475a0f64a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tombol otorisasi di handled/defined dalam file start-bank.html'])[1]/preceding::button[1]</value>
+      <webElementGuid>7f5505a5-87c5-4f60-be11-d77dd27fd59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Otorisasi Transaksi']/parent::*</value>
+      <webElementGuid>2ccf3081-832e-4114-bff0-e8bd47cae306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div/button</value>
+      <webElementGuid>1ca11744-289e-4e3c-a2cc-04cfbed8dfb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Otorisasi Transaksi' or . = 'Otorisasi Transaksi')]</value>
+      <webElementGuid>fb37dff8-3e59-410a-ab07-c6fba95a40fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

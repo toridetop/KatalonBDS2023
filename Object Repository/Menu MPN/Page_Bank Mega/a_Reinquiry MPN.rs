@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reinquiry MPN</name>
+   <tag></tag>
+   <elementGuidId>1fa30a70-3322-4363-ada7-27c8caedb76d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='link351195']/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Reinquiry MPN' or . = 'Reinquiry MPN')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b46ce2bc-6268-4119-bade-221d6363ce5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link</name>
+      <type>Main</type>
+      <value>8906</value>
+      <webElementGuid>b13c49ed-dbba-40c5-9d4d-a477c91fee0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>10c3ea47-f660-4a58-9c84-a16b28c75fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block py-0 my-0 text-left btn-link text-primary</value>
+      <webElementGuid>3f0144cf-0be3-4d49-bd3e-d271cf4858dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reinquiry MPN</value>
+      <webElementGuid>196dff98-772b-4ec6-a45e-a6384f7c34ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link351195&quot;)/li[@class=&quot;list-group-item p-0 m-0&quot;]/a[@class=&quot;btn btn-block py-0 my-0 text-left btn-link text-primary&quot;]</value>
+      <webElementGuid>199d90f4-778b-4c79-b78f-04b25efac4e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='link351195']/li[5]/a</value>
+      <webElementGuid>b4766ea4-29db-44c8-af5b-4d2b81d59ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reinquiry MPN')]</value>
+      <webElementGuid>45c46d6f-92c4-41ac-8d19-3ffb4458ab4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LAINNYA'])[1]/following::a[5]</value>
+      <webElementGuid>8f98d879-3208-4e3c-a52f-73047fdc3817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI UMUM'])[1]/following::a[19]</value>
+      <webElementGuid>831b2d32-08c4-45b4-accf-359448bfe431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI LOAN'])[1]/preceding::a[5]</value>
+      <webElementGuid>5d21a709-b2d0-44fb-855b-73ffcab41912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRANSAKSI MISCELLANEOUS'])[1]/preceding::a[7]</value>
+      <webElementGuid>5f42ba37-66f5-4b00-8a5f-e1cdfbf01f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reinquiry MPN']/parent::*</value>
+      <webElementGuid>41b7f570-8ca9-4187-b753-7f2b29b9b15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[20]</value>
+      <webElementGuid>1d1a193f-9c33-42cb-bc71-c73620d3827a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/li[2]/ul/li[5]/a</value>
+      <webElementGuid>838965a2-93e3-4d06-bbfa-cbcb2fa38e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Reinquiry MPN' or . = 'Reinquiry MPN')]</value>
+      <webElementGuid>4cf569b7-590b-41ac-bd2e-9aded4e99a89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

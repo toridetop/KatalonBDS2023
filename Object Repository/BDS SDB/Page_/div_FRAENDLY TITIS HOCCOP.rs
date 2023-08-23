@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FRAENDLY TITIS HOCCOP</name>
+   <tag></tag>
+   <elementGuidId>3d96bbb7-715d-4f00-beb2-29b2adc4b58e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dCDPza-cave']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dCDPza-cave</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'FRAENDLY TITIS HOCCOP' or . = 'FRAENDLY TITIS HOCCOP') and @ref_element = 'Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26c650dc-4c6c-4b64-aae6-db3d2aa29eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dCDPza-cave</value>
+      <webElementGuid>c8044e7e-385c-457d-84ff-8c3f0683c8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-listcell-content</value>
+      <webElementGuid>ee2ca782-4d45-4d0e-8a7d-86a9cf2d9d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FRAENDLY TITIS HOCCOP</value>
+      <webElementGuid>1d7c08b0-bcd9-43c1-bd97-ab0b481a34db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dCDPza-cave&quot;)</value>
+      <webElementGuid>73b7d8f3-b745-42aa-8732-0fe78df8218f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BDS SDB/Page_/iframe_Laporan Compleo_g9APi</value>
+      <webElementGuid>498a9193-297c-464c-9d0f-85161bb89062</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='dCDPza-cave']</value>
+      <webElementGuid>9048d231-d88b-4e2a-92e1-242e5f3f261d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='dCDPza']/div</value>
+      <webElementGuid>fea14a2f-c775-4ee6-9a4c-83c6cce9ed12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F082943'])[1]/following::div[1]</value>
+      <webElementGuid>a623e544-8e21-40bf-a1e3-0c3ad84b1cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penyewa SDB'])[1]/following::div[5]</value>
+      <webElementGuid>4aceee9d-6171-408c-a74e-254c14cf5e7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[1]/preceding::div[1]</value>
+      <webElementGuid>cc230268-1f01-4e65-935e-dabd912433f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KTP'])[1]/preceding::div[5]</value>
+      <webElementGuid>98a2225f-5b1d-4280-bd46-0394bd4fbae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='FRAENDLY TITIS HOCCOP']/parent::*</value>
+      <webElementGuid>927443a7-8c43-4cb0-b080-fc966d38f21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div</value>
+      <webElementGuid>411b8fc0-6dd0-40a5-b04a-f3188e874663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'dCDPza-cave' and (text() = 'FRAENDLY TITIS HOCCOP' or . = 'FRAENDLY TITIS HOCCOP')]</value>
+      <webElementGuid>3e3cf9e2-acad-4481-8a34-8f627b6dd615</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

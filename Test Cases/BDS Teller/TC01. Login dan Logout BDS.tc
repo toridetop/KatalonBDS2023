@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dan Logout BDS</description>
+   <name>TC01. Login dan Logout BDS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa333f08-505a-480b-9536-818cdb723790</testCaseGuid>
+</TestCaseEntity>

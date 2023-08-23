@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Safe Deposit Box</name>
+   <tag></tag>
+   <elementGuidId>97cd8cc3-437a-4d61-8ef2-349675ec6b5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='g9APs0-text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#g9APs0-text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Safe Deposit Box' or . = 'Safe Deposit Box')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f6aa117-49d7-4a92-ad18-3cf74e6922fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>g9APs0-text</value>
+      <webElementGuid>2a1cec47-0920-44c3-a44a-6b2b06c37a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-nav-text</value>
+      <webElementGuid>fa8e8797-0eb2-4e31-b911-fd7178bec8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Safe Deposit Box</value>
+      <webElementGuid>5c9ee40e-a197-49fc-8256-9b976d874e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;g9APs0-text&quot;)</value>
+      <webElementGuid>0625d7fe-c582-40b5-96a0-3a9fe96df21c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='g9APs0-text']</value>
+      <webElementGuid>656ede13-ce74-4ff7-afa3-4856f01da612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='g9APs0-cnt']/span</value>
+      <webElementGuid>fde9e0f7-3f92-41cc-b62c-7c2c12b50c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Print'])[1]/following::span[1]</value>
+      <webElementGuid>dd43a8a9-5e18-40bb-aa16-ff285e7f604b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Inventori'])[1]/following::span[2]</value>
+      <webElementGuid>4c263d7e-1e9a-4252-96ff-c17d1330290c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safe Deposit'])[1]/preceding::span[1]</value>
+      <webElementGuid>0b487e0d-b640-4490-b24c-b0ec386b160a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek dan Bilyet Giro'])[1]/preceding::span[2]</value>
+      <webElementGuid>c2f291a1-f889-4d43-b24f-b62e9299a450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[5]/a/span</value>
+      <webElementGuid>9bd3ac30-d8fb-446f-b34f-f17e349f50d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'g9APs0-text' and (text() = 'Safe Deposit Box' or . = 'Safe Deposit Box')]</value>
+      <webElementGuid>c57bba6a-9f88-430a-abcf-6b99b5639b92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
